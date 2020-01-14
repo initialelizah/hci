@@ -101,4 +101,3 @@ Apple Watch
 Παραδοτέο Γ: Βιογραφία Douglas Engelbart 
 
  > Το [link](https://github.com/initialelizah/gr/tree/gh-pages/_biography) της βιογραφίας.
- 
